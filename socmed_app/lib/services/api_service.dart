@@ -4,7 +4,7 @@ import '../models/post_model.dart';
 
 class ApiService {
   // --- GEMINI CONFIGURATION ---
-  static const String apiKey = 'AIzaSyCc48wLB9_poB3DdwvD_WBjNBAPHx_Ksww'; // ← Replace with your key!
+  static const String apiKey = ''; // ← Replace with your key!
   static const String apiUrl =
       'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent';
 
